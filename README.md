@@ -7,5 +7,6 @@
 - [Текущий контроль 1.2. – Управляющие структуры и базовые операции](https://github.com/DeimosCreator/CSharpLessons/tree/current_control_1.2)
 - [Практическая работа 1.3. – Массивы и их применение](https://github.com/DeimosCreator/CSharpLessons/tree/practice_1.3_ArrayAnalyzerApp)
 - [Текущий контроль 1.3. – Массивы и их применение](https://github.com/DeimosCreator/CSharpLessons/tree/current_control_1.3)
+- [Текущий контроль 2.1. – Введение в ООП: Наследование](https://github.com/DeimosCreator/CSharpLessons/tree/current_control_2.1)
 ## Автор
 DeimosCreator
