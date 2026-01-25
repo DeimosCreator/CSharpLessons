@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefPointApp", "RefPointApp\RefPointApp.csproj", "{0A60F983-13A9-440D-947A-01E5BB2E9232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A60F983-13A9-440D-947A-01E5BB2E9232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A60F983-13A9-440D-947A-01E5BB2E9232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A60F983-13A9-440D-947A-01E5BB2E9232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A60F983-13A9-440D-947A-01E5BB2E9232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C6B8D71-6A82-4A0C-B3CB-F10DA7F13991}
+	EndGlobalSection
+EndGlobal
