@@ -13,6 +13,7 @@
 - [Самостоятельная работа 2.3. – Модификаторы параметров и работа памяти](https://github.com/DeimosCreator/CSharpLessons/tree/self_work_2.3)
 - [Текущий контроль 2.3. – Модификаторы параметров и работа памяти](https://github.com/DeimosCreator/CSharpLessons/tree/current_control_2.3)
 - [Самостоятельная работа 2.4. – Основы алгоритмизации. Базовые алгоритмы поиска информации](https://github.com/DeimosCreator/CSharpLessons/tree/self_work_2.4)
-- [Практическая работа 2.2. – Введение в ООП: полиморфизм и инкапсуляция](https://github.com/DeimosCreator/CSharpLessons/tree/self_work_2.4)
+- [Практическая работа 2.2. – Введение в ООП: полиморфизм и инкапсуляция](https://github.com/DeimosCreator/CSharpLessons/tree/practice_2.2_Library)
+- [Практическая работа 2.3. – Модификаторы параметров и работа памяти](https://github.com/DeimosCreator/CSharpLessons/tree/practice_2.3_NumProcessor)
 ## Автор
 DeimosCreator
