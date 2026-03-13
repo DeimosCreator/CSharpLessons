@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceArchive", "SpaceArchive\SpaceArchive.csproj", "{A082EED7-CF04-404F-AA09-FE7FD132CFAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A082EED7-CF04-404F-AA09-FE7FD132CFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A082EED7-CF04-404F-AA09-FE7FD132CFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A082EED7-CF04-404F-AA09-FE7FD132CFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A082EED7-CF04-404F-AA09-FE7FD132CFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
