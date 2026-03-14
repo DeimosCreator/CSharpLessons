@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberStatsApp", "NumberStatsApp\NumberStatsApp.csproj", "{197BBB8F-BFEF-429D-9D43-07BF6B2C84CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{197BBB8F-BFEF-429D-9D43-07BF6B2C84CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197BBB8F-BFEF-429D-9D43-07BF6B2C84CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197BBB8F-BFEF-429D-9D43-07BF6B2C84CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197BBB8F-BFEF-429D-9D43-07BF6B2C84CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
