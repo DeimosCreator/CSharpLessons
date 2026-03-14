@@ -18,5 +18,6 @@
 - [Практическая работа 2.4 – Основы алгоритмизации. Базовые алгоритмы поиска информации](https://github.com/DeimosCreator/CSharpLessons/tree/practice_2.4_ArraySearch)
 - [Текущий контроль 2.4 – Основы алгоритмизации. Базовые алгоритмы поиска информации](https://github.com/DeimosCreator/CSharpLessons/tree/current_control_2.4)
 - [Практическая работа 3.1 – Работа с файлами и потоками](https://github.com/DeimosCreator/CSharpLessons/tree/practice_3.1_SpaceArchive)
+- [Самостоятельная работа 3.1. – Работа с файлами и потоками](https://github.com/DeimosCreator/CSharpLessons/tree/self_work_3.1)
 ## Автор
 DeimosCreator
