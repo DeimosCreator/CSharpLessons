@@ -21,5 +21,6 @@
 - [Самостоятельная работа 3.1. – Работа с файлами и потоками](https://github.com/DeimosCreator/CSharpLessons/tree/self_work_3.1)
 - [Текущий контроль 3.1. – Работа с файлами и потоками](https://github.com/DeimosCreator/CSharpLessons/tree/current_control_3.1)
 - [Самостоятельная работа 3.2. – Работа с коллекциями и LINQ](https://github.com/DeimosCreator/CSharpLessons/tree/self_work_3.2)
+- [Текущий контроль 3.2. – Работа с коллекциями и LINQ](https://github.com/DeimosCreator/CSharpLessons/tree/current_control_3.2)
 ## Автор
 DeimosCreator
